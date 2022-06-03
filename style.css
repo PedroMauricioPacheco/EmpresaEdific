@@ -1,0 +1,220 @@
+body {
+    margin: 10px;
+    padding: 0;
+    background-color: #D9A566;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+/* MENU */
+#menu {
+    background-color: #A68863;
+    border-radius: 150px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#menu  ul{
+    display: flex;
+    justify-content: center;
+    padding: 4px;
+}
+#menu ul li{
+    list-style-type:none;
+    flex-direction:row;
+}
+#menu ul li a{
+    text-decoration: none;
+    color: #0D0000;
+    font-weight: bold;
+    padding: 15px;
+    font-size: 20px;
+}
+#img img {
+    width: 550px;
+    height: 350px;
+    border-radius: 75px;
+    margin: auto;
+    display: block;
+}
+/* PRINCIPAL */
+main h1{
+    text-align: center;
+}
+main h2{
+    font-size: 30px;
+}
+main p{
+    font-size: 20px;
+}
+main #img {
+    display: flex;
+    justify-items: center;
+}
+#menuclientes{
+    background-color: #A68863;
+    border-radius: 150px;
+}
+#menuclientes body{
+    background-color: #A68863;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#menuclientes ul{
+    display: flex;
+    justify-content: center;
+    padding: 4px;
+}
+#menuclientes ul li{
+    list-style: none;
+    flex-direction: row;
+}
+#menuclientes ul li a{
+    text-decoration: none;
+    color: #0D0000;
+    font-weight: bold;
+    padding: 15px;
+    font-size: 20px;
+}
+#h1clientes h1{
+    margin: 10px;
+    text-align: center;
+    line-height: 60px;
+}
+#totvsmenu{
+    font-size: 20px;
+    margin: 0px;
+    text-align: center;
+    line-height: 25px;
+}
+#totvsmenu p{
+    font-size: 18px;
+}
+#totvsmenu img{
+    width: 220px;
+    height: 170px;
+    padding: 2px;
+    border-radius: 15px;
+}
+#amazonmenu{
+    margin: 10px;
+    text-align: center;
+    line-height: 25px;
+}
+#amazonmenu p{
+    font-size: 18px;
+}
+#amazonmenu img{
+    width: 220px;
+    height: 170px;
+    padding: 2px;
+    border-radius: 15px;
+}
+#microsoftmenu{
+    margin: 10px;
+    text-align: center;
+}
+#microsoftmenu p{
+    font-size: 18px;
+    line-height: 25px;
+}
+#microsoftmenu img{
+    width: 220px;
+    height: 170px;
+    padding: 2px;
+    border-radius: 15px;
+}
+#menucontato{
+    background-color: #A68863;
+    border-radius: 150px;
+}
+#menucontato body{
+    background-color: #A68863;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#menucontato ul{
+    display: flex;
+    justify-content: center;
+    padding: 4px;
+}
+#menucontato ul li{
+    list-style: none;
+    flex-direction: row;
+}
+#menucontato ul li a{
+    text-decoration: none;
+    color: #0D0000;
+    font-weight: bold;
+    padding: 15px;
+    font-size: 20px;
+}
+#h1contato{
+    margin: 10px;
+    text-align: center;
+}
+#emailinfo{
+    text-align: center;
+    font-size: 20px;
+    line-height: 40px;
+
+}
+#emailinfo h3{
+    font-size: 26px;
+}
+#menuservicos{
+    background-color: #A68863;
+    border-radius: 150px;
+}
+#menuservicos body{
+    background-color: #A68863; 
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#menuservicos ul{
+    display: flex;
+    justify-content: center;
+    padding: 4px;
+}
+#menuservicos ul li{
+    list-style: none;
+    flex-direction: row;
+}
+#menuservicos ul li a{
+    text-decoration: none;
+    color: #0D0000;
+    font-weight: bold;
+    padding: 15px;
+    font-size: 20px;
+}
+#h1servicos{
+    margin: 10px;
+    text-align: center;
+}
+#servicosprestados{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    margin: 10px;
+    padding: 4px;
+    text-align: center;
+}
+#servicosprestados ul{
+    line-height: 30px;
+    text-align: center;
+}
+#servicosprestados ul li{
+    list-style: none;
+}
+#servicosprestados p strong{
+    font-size: 28px;
+    background-color: #A68863;
+    padding: 4px;
+    border-radius: 150px;
+}
+#emailinfo a{
+    text-decoration: none;
+    color: #0D0000;
+}
+
+
+
+
